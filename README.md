@@ -41,3 +41,4 @@ Este proyecto demuestra la capacidad de sustituir horas de trabajo manual en Exc
 
 3.	Profesionalismo: Entrega un producto final (PDF) listo para ser enviado a gerencia.
 
+Enlace de Archivo Generado (Reporte): https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/reporte_ventas.pdf
