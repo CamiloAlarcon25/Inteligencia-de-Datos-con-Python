@@ -26,7 +26,7 @@
 
 > *El script procesa datos crudos con errores de tipeo, estandariza entidades de negocio, genera gráficos de rendimiento y construye de forma 100% autónoma un informe ejecutivo en PDF.*
 
-![Vista Previa del Reporte PDF](Reporte_PDF_Preview.PNG)
+![Vista Previa del Reporte PDF](Reporte.PNG)
 
 ---
 
@@ -88,11 +88,11 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <b>Algoritmo de Limpieza Difusa (Python)</b><br><br>
+      <b>Grafico Monto Vendido por Empresa</b><br><br>
       <img src="Codigo_Fuzzy.PNG" alt="Código Fuzzy Matching" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <b>Visualizaciones y Tablas en PDF Generado</b><br><br>
+      <b>Grafico Monto Vendido por Vendedor</b><br><br>
       <img src="Graficos_PDF.PNG" alt="Gráficos en PDF" width="100%"/>
     </td>
   </tr>
