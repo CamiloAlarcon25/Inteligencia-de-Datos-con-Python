@@ -89,11 +89,11 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
   <tr>
     <td width="50%" align="center">
       <b>Grafico Monto Vendido por Empresa</b><br><br>
-      <img src="Codigo_Fuzzy.PNG" alt="Código Fuzzy Matching" width="100%"/>
+      <img src="ventas_por_empresa.png" alt="Código Fuzzy Matching" width="100%"/>
     </td>
     <td width="50%" align="center">
       <b>Grafico Monto Vendido por Vendedor</b><br><br>
-      <img src="Graficos_PDF.PNG" alt="Gráficos en PDF" width="100%"/>
+      <img src="ventas_por_vendedor" alt="Gráficos en PDF" width="100%"/>
     </td>
   </tr>
 </table>
@@ -111,5 +111,5 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 ## 📂 Recursos del Repositorio
 
 * 📄 **Reporte Automatizado Generado (PDF):** [reporte_ventas.pdf](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/reporte_ventas.pdf)
-* 🐍 **Script de Automatización (Python):** [Ver archivo .py](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/generar_reporte.py)
-* 📊 **Dataset de Prueba (.csv):** [Ver datos de entrada](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/ventas_raw.csv)
+* 🐍 **Script de Automatización (Python):** [Ver archivo .py](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/6_3_Proyecto_Python.py)
+* 📊 **Dataset de Prueba (.csv):** [Ver datos de entrada](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/registros_sin_cruce.csv)
