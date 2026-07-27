@@ -93,7 +93,7 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
     </td>
     <td width="50%" align="center">
       <b>Grafico Monto Vendido por Vendedor</b><br><br>
-      <img src="ventas_por_vendedor" alt="Gráficos en PDF" width="100%"/>
+      <img src="ventas_por_vendedor.png" alt="Gráficos en PDF" width="100%"/>
     </td>
   </tr>
 </table>
