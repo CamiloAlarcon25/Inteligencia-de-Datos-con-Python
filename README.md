@@ -1,4 +1,4 @@
-# 🐍 Inteligencia de Datos con Python: Limpieza Difusa y Reportabilidad Automatizada
+# Inteligencia de Datos con Python: Limpieza Difusa y Reportabilidad Automatizada
 
 > **Automatización end-to-end para saneamiento de datos y generación de reportes:** Script en Python para la corrección de inconsistencias textuales mediante lógica difusa (Levenshtein Distance), análisis cuantitativo de ventas y exportación automatizada a PDF ejecutivo.
 
@@ -9,20 +9,20 @@
 
 ---
 
-## 📌 Navegación Rápida
+## Navegación Rápida
 [← Volver al Portafolio Principal](https://camiloalarcon25.github.io/Mi_Portafolio_v1/)
 
-- [Vista General del Reporte](#-vista-general-del-reporte)
-- [El Desafío de Negocio](#-el-desafío-de-negocio)
+- [Vista General del Reporte](#vista-general-del-reporte)
+- [El Desafío de Negocio](#el-desafío-de-negocio)
 - [Arquitectura de Datos y Metodología](#arquitectura)
-- [Insights y Hallazgos Clave](#-insights-y-hallazgos-clave)
+- [Insights y Hallazgos Clave](#insights-y-hallazgos-clave)
 - [Vistas Detalladas](#vistas)
-- [Recomendaciones de Gestión](#-recomendaciones-de-gestión)
-- [Recursos del Repositorio](#-recursos-del-repositorio)
+- [Recomendaciones de Gestión](#recomendaciones-de-gestión)
+- [Recursos del Repositorio](#recursos-del-repositorio)
 
 ---
 
-## 📸 Vista General del Reporte
+## Vista General del Reporte
 
 > *El script procesa datos crudos con errores de tipeo, estandariza entidades de negocio, genera gráficos de rendimiento y construye de forma 100% autónoma un informe ejecutivo en PDF.*
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 El Desafío de Negocio
+## El Desafío de Negocio
 
 En la operativa diaria, los registros de ventas suelen presentar errores de digitación, nombres duplicados o variaciones de marca (ej. *"Apple Inc"*, *"Apple"*, *"apple-corp"*). Esto fragmenta los datos e impide consolidar los ingresos reales por cliente o vendedor.
 
@@ -41,7 +41,7 @@ El objetivo de este proyecto fue **eliminar el trabajo manual de limpieza en Exc
 
 ---
 
-## <a name="arquitectura"></a>🛠️ Arquitectura de Datos y Metodología
+## <a name="arquitectura"></a>Arquitectura de Datos y Metodología
 
 El proyecto implementa un flujo de procesamiento y automatización estructurado en cuatro fases:
 
@@ -66,7 +66,7 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 
 ---
 
-## 📈 Insights y Hallazgos Clave
+## Insights y Hallazgos Clave
 
 | Dimensión de Análisis | Método / Herramienta | Impacto y Resultado |
 | :--- | :--- | :--- |
@@ -75,7 +75,7 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 | **Integridad Financiera** | Regrupamiento con Pandas | Consolidación exacta de facturación sin duplicidad de cuentas |
 | **Generación de Reporte** | Librería FPDF | Creación autónoma de PDF listo para distribución ejecutiva |
 
-### 💡 Principales Conclusiones
+### Principales Conclusiones
 
 * **Integridad Total de Datos:** El algoritmo de Lógica Difusa eliminó el riesgo de fragmentación de ingresos, unificando cuentas que antes se contabilizaban como clientes distintos.
 * **Repetibilidad y Escalabilidad:** El pipeline es 100% reexecutable; permite procesar nuevos cierres mensuales con un solo clic mantendiendo los mismos criterios de calidad.
@@ -83,7 +83,7 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 
 ---
 
-## <a name="vistas"></a>🖼️ Vistas Detalladas del Dashboard
+## <a name="vistas"></a>Vistas Detalladas del Dashboard
 
 <table width="100%">
   <tr>
@@ -100,7 +100,7 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 
 ---
 
-## 💡 Recomendaciones de Gestión
+## Recomendaciones de Gestión
 
 1. **Ajuste Fino de Umbrales de Similitud:** Calibrar el umbral de similitud (actualmente en 80%) según la variabilidad de la base de clientes para evitar falsos positivos en marcas con nombres similares.
 2. **Programación de Ejecución Periódica:** Configurar la ejecución automática del script al cierre de cada mes para generar y enviar el reporte PDF por correo a los líderes de área.
@@ -108,8 +108,8 @@ El proyecto implementa un flujo de procesamiento y automatización estructurado 
 
 ---
 
-## 📂 Recursos del Repositorio
+## Recursos del Repositorio
 
-* 📄 **Reporte Automatizado Generado (PDF):** [reporte_ventas.pdf](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/reporte_ventas.pdf)
-* 🐍 **Script de Automatización (Python):** [Ver archivo .py](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/6_3_Proyecto_Python.py)
-* 📊 **Dataset de Prueba (.csv):** [Ver datos de entrada](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/registros_sin_cruce.csv)
+* **Reporte Automatizado Generado (PDF):** [reporte_ventas.pdf](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/reporte_ventas.pdf)
+* **Script de Automatización (Python):** [Ver archivo .py](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/6_3_Proyecto_Python.py)
+* **Dataset de Prueba (.csv):** [Ver datos de entrada](https://github.com/CamiloAlarcon25/Inteligencia-de-Datos-con-Python/blob/main/registros_sin_cruce.csv)
